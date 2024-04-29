@@ -58,7 +58,10 @@ const MarkdownContent = ({ markdownFile, dataToProcess = "default" }) => {
 };
 
 const MarkdownContainer = styled.div`
-  font-family: "NotoSansJP-Light";
+  /* font-family: "NotoSansJP-Light"; */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   font-weight: 300;
   margin: 0 0 1.5em;
   line-height: 1.5;
@@ -111,6 +114,9 @@ const MarkdownContainer = styled.div`
     /* color: rgb(209, 213, 219); */
     color: #fff;
     font-family: "NotoSansJP-Light";
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+      "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+      "Helvetica Neue", sans-serif;
     /* font-size: 0.875em; */
     font-size: 1em;
     font-weight: 300;
