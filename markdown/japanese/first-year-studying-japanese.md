@@ -1,10 +1,12 @@
-##### Ken Samonte | April 28, 2024
+##### Ken Samonte | April 28, 2024 (Sunday)
 
 ## Background
 
 Hi. I'm a 30-year-old full-time programmer from the Philippines. I started studying Japanese exactly one year ago, on April 30th, 2023, when I attended my first online class in a language school. Prior to that, I had been learning on Duolingo at a very relaxed pace, so I knew how to read Hiragana and Katakana. I am presently bilingual with Tagalog as my native language (NL) and a C1 Level of proficiency in English.
 
 The phonetics of Japanese and Tagalog are very similar since they are both _syllable-timed_ languages, whereas English is a _stress-timed_ language, so its pronunciation was much easier to digest for me. 
+
+---
 
 ## Timeline
 
@@ -79,6 +81,8 @@ I cannot emphasize this enough: my methods are very personal to me, and this is 
 
 My point is - my immersion methods bring me a tremendous amount of joy, and I strongly believe that the best way to learn a language is to have fun with how you learn, no matter how personalized your methods are. It's okay if you don't know yet which works for you - it took me a whole year to figure this out after soaking up countless articles on the internet. 
 
+---
+
 ## Active Study
 
 ### Cure Dolly's Organic Japanese
@@ -118,6 +122,8 @@ I should note that I have no knowledge of the _onyomi_ and _kunyomi_ classificat
 
 I use the [FSRS algorithm](https://github.com/open-spaced-repetition/fsrs4anki) with a 90% retention rate and this has worked well for me. I can see myself continuing using Anki perhaps until I attain a good amount of vocab, but I think I will eventually discontinue using it (once I'm around B2 level maybe).
 
+---
+
 ## Present
 
 ### Current routine:
@@ -140,6 +146,8 @@ Stuff I no longer do:
 + ３）Writing (typing): **A2**. I can hold a conversation with my girlfriend with a bit of mental effort. I may be able to write a letter to a friend.
 + ４）Speaking: **A1**. It takes me a long while to form simple, descriptive sentences.
 
+---
+
 ## Takeaways
 
 These are the things I would tell myself a year ago.
@@ -159,6 +167,8 @@ These are the things I would tell myself a year ago.
 ・I initially thought I would never attain my current level of fluency in English. I thought of myself as an eloquent writer during my formative years, but my pieces were quite unnatural (since I hardly spoke the language). I learned how to write much more organically by speaking a lot more - it's true when they say that anybody who could talk could also write.
 
 ・Technology has immensely facilitated the study of languages, and we are very fortunate to be living in modern times. Take the time to learn how to use them as early as possible. 
+
+---
 
 ## Future Plans
 
