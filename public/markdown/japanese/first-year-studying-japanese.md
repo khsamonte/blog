@@ -1,4 +1,4 @@
-##### Ken Samonte | April 28, 2024
+##### Ken Samonte | April 28, 2024 (Sunday)
 
 ## Background
 
