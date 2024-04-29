@@ -126,8 +126,8 @@ I use the [FSRS algorithm](https://github.com/open-spaced-repetition/fsrs4anki) 
 + ・Dedicating most of my free time to consuming Japanese content with the active immersion method I mentioned in a few paragraphs above.
 + ・Free-flow listening immersion during 2-2.5 hours of commute and passive listening at work (during menial tasks only).
 + ・Chatting and talking in Japanese to my girlfriend (she is N2-level). お互いから学んでいます。
-* ・Studying at least one new grammar pattern a day via [Cure Dolly](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) or [Nihongo Kyoshi JLPT Grammar](https://nihongokyoshi-net.com/jlpt-grammars/).
-* ・Occasionally answering entire [JLPT Listening Sets]() without pauses to simulate test-taking environments, and also studying listening sets that are one level above me as advanced conditioning.
++ ・Studying at least one new grammar pattern a day via [Cure Dolly](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) or [Nihongo Kyoshi JLPT Grammar](https://nihongokyoshi-net.com/jlpt-grammars/).
++ ・Occasionally answering entire [JLPT Listening Sets]() without pauses to simulate test-taking environments, and also studying listening sets that are one level above me as advanced conditioning.
 
 Stuff I no longer do:
 
