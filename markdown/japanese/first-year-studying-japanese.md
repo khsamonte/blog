@@ -91,7 +91,7 @@ Cure Dolly's lessons, along with my daily flashcard reps, serve only as a supple
 
 For a short while, before I transitioned to immersion, I tried graded readers. It taught me a thing or two, of course, but I didn't find them interesting enough to keep continuing. I felt the same with children's shows: my mind was too impatient to deal with the simplicity, so I kept getting distracted. Attention is a _very_ crucial element in language learning, and I've decided to discard every single study method that couldn't hold my focus.
 
-If you're after simple vocabulary, I would argue that alternatives more befitting to adults exist, such as [this video introducing kitchen items](), for instance. Several channels churning out similar content exist across YouTube.
+If you're after simple vocabulary, I would argue that alternatives more befitting to adults exist, such as [this video introducing kitchen items](https://www.youtube.com/watch?v=tz5oFor3lJM), for instance. Several channels churning out similar content exist across YouTube.
 
 ### Anki
 
@@ -127,7 +127,7 @@ I use the [FSRS algorithm](https://github.com/open-spaced-repetition/fsrs4anki) 
 + ・Free-flow listening immersion during 2-2.5 hours of commute and passive listening at work (during menial tasks only).
 + ・Chatting and talking in Japanese to my girlfriend (she is N2-level). お互いから学んでいます。
 + ・Studying at least one new grammar pattern a day via [Cure Dolly](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) or [Nihongo Kyoshi JLPT Grammar](https://nihongokyoshi-net.com/jlpt-grammars/).
-+ ・Occasionally answering entire [JLPT Listening Sets]() without pauses to simulate test-taking environments, and also studying listening sets that are one level above me as advanced conditioning.
++ ・Occasionally answering entire [JLPT Listening Sets](https://www.youtube.com/@JLPTJapanese) without pauses to simulate test-taking environments, and also studying listening sets that are one level above me as advanced conditioning.
 
 Stuff I no longer do:
 
