@@ -68,7 +68,10 @@ const MarkdownContainer = styled.div`
   list-style: none;
 
   h2 {
-    font-family: "NotoSansJP-Regular";
+    /* font-family: "NotoSansJP-Regular"; */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+      "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+      "Helvetica Neue", sans-serif;
     /* font-size: 1.625em; */
     font-size: 1.375em;
     font-weight: 400;
@@ -76,7 +79,10 @@ const MarkdownContainer = styled.div`
   }
 
   h3 {
-    font-family: "NotoSansJP-Regular";
+    /* font-family: "NotoSansJP-Regular"; */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+      "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+      "Helvetica Neue", sans-serif;
     /* font-size: 1.375em; */
     font-size: 1.175em;
     font-weight: 400;
@@ -84,7 +90,10 @@ const MarkdownContainer = styled.div`
   }
 
   h4 {
-    font-family: "NotoSansJP-Light";
+    /* font-family: "NotoSansJP-Light"; */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+      "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+      "Helvetica Neue", sans-serif;
     font-size: 1.175em;
     font-weight: 300;
     margin: 0 0 1.5em;
@@ -93,7 +102,10 @@ const MarkdownContainer = styled.div`
   /* Dates */
   h5 {
     color: rgb(239, 132, 75);
-    font-family: "NotoSansJP-Light";
+    /* font-family: "NotoSansJP-Light"; */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+      "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+      "Helvetica Neue", sans-serif;
     font-size: 1em;
     font-weight: 300;
     margin: 0 0 1.5em;

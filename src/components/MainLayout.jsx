@@ -36,7 +36,10 @@ const MainColumn = styled.div`
 
   h1 {
     color: rgb(239, 132, 75);
-    font-family: "NotoSansJP-Regular";
+    /* font-family: "NotoSansJP-Regular"; */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+      "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+      "Helvetica Neue", sans-serif;
     font-size: 1.625em;
     font-weight: 400;
     padding-bottom: 1em;
