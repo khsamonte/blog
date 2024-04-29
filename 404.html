@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0;url=/index.html" />
+    <meta http-equiv="refresh" content="0;url=/" />
   </head>
   <body>
     <script>
-      if (window.location.pathname !== "/") {
-        sessionStorage.redirect = location.href;
-      }
+      sessionStorage.redirect = location.pathname + location.search;
+      window.location.replace("/");
     </script>
   </body>
 </html>
