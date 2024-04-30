@@ -1,10 +1,12 @@
-##### Ken Samonte | April 28, 2024 (Sunday)
+##### Ken Samonte | April 30, 2024 (Tuesday)
+
+Hi. This post is about my first year of studying Japanese and everything I learned along the way. If you plan to learn a new language, this may serve as an inspirational starting framework so you can avoid some of the mistakes I made.
 
 ## Background
 
-Hi. I'm a 30-year-old full-time programmer from the Philippines. I started studying Japanese exactly one year ago, on April 30th, 2023, when I attended my first online class in a language school. Prior to that, I had been learning on Duolingo at a very relaxed pace, so I knew how to read Hiragana and Katakana. I am presently bilingual with Tagalog as my native language (NL) and a C1 Level of proficiency in English.
+I'm a 30-year-old full-time programmer from the Philippines. I am presently bilingual with Tagalog as my native language (NL) and a C1 Level of proficiency in English. Currently, my Japanese is around A2 based on the [CEFR self-assessment grid](https://europass.europa.eu/system/files/2020-05/CEFR%20self-assessment%20grid%20EN.pdf).
 
-The phonetics of Japanese and Tagalog are very similar since they are both _syllable-timed_ languages, whereas English is a _stress-timed_ language, so its pronunciation was much easier to digest for me. 
+I started studying Japanese (seriously) exactly one year ago, on April 30th, 2023, when I attended my first online class in a language school. Prior to that, I knew some of the basics, like how to read Hiragana and Katakana.
 
 ---
 
@@ -15,17 +17,24 @@ The phonetics of Japanese and Tagalog are very similar since they are both _syll
 During my first five months, my studies primarily consisted of:
 
 + ・N5 classes on the weekends (3 hours on Sat/Sun)
-+ ・Vocabulary + grammar drills in my free time
++ ・Vocabulary drills in my free time
++ ・Grammar lesson reviews
 + ・Rote Kanji writing
 + ・Translation drills
 
-This was my standard routine for the whole duration of my N5 classes. I was happy with my learning pace.
+This was my standard routine from April to September. I was happy with my learning pace at school, but as you can see, I'm going to take forever if I continued with this route.
 
-When we were given our first Listening Quiz, which only started around the third month of the class, I didn't understand a single thing. This admittedly made a dent in my morale and humbled me down quickly. I was confident with my basic reading skills, but my listening comprehension was nil. I started easing in some listening reviews to my studies, but it was very difficult to comprehend everything the first time. Overall, I was satisfied with this class, and I even became good friends with some of my classmates.
+For those unaware, there is an international exam called the [JLPT](https://www.jlpt.jp/e/index.html) (Japanese Language Proficiency Test) which happens twice a year, in July and December. There are five levels, N5 being the easiest and N1 the most difficult. I didn't think I was going to make the cut in the July test, so I opted for the one in December.
 
-When our classes ended in September, I immediately enrolled for N4 classes (even though my N5 exam was still in December). The grammar lessons were relatively easy, but I had a much harder time with the reading exercises. Almost always, whenever we were having reading quizzes and exams, I was last to finish amongst the class. Everyone else was significantly faster than me.
+After the JLPT in July, young students from my language school complained of having encountered difficulties in the reading section, so our school made an effort to incorporate _dokkai_ and _choukai_ (reading and listening comprehension) into our classes. Our classes were specifically tailored to prepare us for these tests.
 
-Because of this, I dreaded the reading comprehension tests. It felt like sludging through boring material, primarily because the majority of the vocab went over my head. I once scored 2/7 on a reading test after giving it my all, and while that was quite demoralizing, my tolerance for failure is thankfully pretty good. To compensate for this, I adapted stricter vocabulary and Kanji drills.
+When we had our first listening comprehension quiz, I didn't understand a single thing. This gave us a preview of what to expect in the JLPT, and my listening comprehension was nil. I started easing in some listening reviews to my studies. It was definitely hard to catch everything the first time.
+
+Overall, I was happy with the class and even made good friends among my classmates. After our classes ended in September, I signed up for N4 classes despite my N5 exam being scheduled for December.
+
+I had a much harder time with the reading exercises due to the sharp increase in difficulty. Almost always, whenever we were having reading tests, I was last to finish among the class. Everyone else was significantly faster than me.
+
+Because of this, I dreaded the reading comprehension tests. It felt like sludging through boring books, all because the majority of the vocab went over my head. I once scored 2/7 on a reading test after giving it my all; needless to say, quite demoralizing. To compensate for this, I adapted stricter vocabulary and Kanji drills.
 
 ### JLPT N5
 
@@ -38,23 +47,29 @@ I took my [JLPT](https://www.jlpt.jp/e/index.html) N5 exam on December 3rd and a
 
 (I understand that some people think the JLPT is a waste of time, i.e., one's proficiency is hardly defined by tests with flawed designs. Nonetheless, there is a sense of fulfillment and anticipation in these tests, and that is enough for me.)
 
-### Immersion
+---
 
-At the start of 2024, I started hearing about [immersion](https://refold.la/simplified/stage-0/a/what-is-immersion) and [comprehensible input](https://www.sk.com.br/sk-krash-english.html) ([i+1](https://www.sk.com.br/sk-krash-english.html)). I became aware of [AJATT (All Japanese All The Time)](https://tatsumoto-ren.github.io/blog/whats-ajatt.html) methods, which discarded traditional textbook learning and endorsed single-handedly relying on intensive immersion to learn a language, paired with building your own flashcard deck on [Anki](https://apps.ankiweb.net/), which utilizes spaced repetition.
+## Immersion
 
-However, I don't subscribe to their extreme methods because they require a good amount of linguistic intuition which I don't have, and I am fully aware that the level of intensity they demand will burn me out. I also believe that textbooks are also helpful to an extent.
+At the start of 2024, I started hearing about [immersion](https://refold.la/simplified/stage-0/a/what-is-immersion) and [comprehensible input](https://www.sk.com.br/sk-krash-english.html) ([i+1](https://www.sk.com.br/sk-krash-english.html)). I became aware of [AJATT (All Japanese All The Time)](https://tatsumoto-ren.github.io/blog/whats-ajatt.html) methods, which discarded traditional textbook learning and endorsed single-handedly relying on intensive [immersion](https://refold.la/simplified/stage-0/a/what-is-immersion) through input to learn a language, paired with building your own flashcard deck on [Anki](https://apps.ankiweb.net/) which utilizes [spaced repetition](https://www.kpu.ca/sites/default/files/Learning%20Centres/Think_SpacedRepetition_LA.pdf).
 
-My listening practice started with [The Bite Size Japanese Podcast](https://open.spotify.com/show/58H68tM3uC2JNZI4hXvdeu) on the recommendation of my girlfriend. Her content is really good for beginners as she speaks slowly and reiterates words while delving into relatable everyday topics. I spent weeks listening to her while walking and taking the train on my way home from work every day. I would say that レイラさん helped me dip my toes in listening comprehension.
+However, I don't subscribe to AJATT's extreme methods because they require a good amount of linguistic intuition, which I don't have, and I am fully aware that the level of intensity they demand will burn me out. I also believe that textbooks are helpful to an extent.
 
-I was lucky that my favorite anime of all time, [Rascal Does Not Dream of Bunny Girl Senpai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai), is heavily dialogue-driven (the episodes consist of 95% conversations). I began manually transcribing the Japanese subtitles from Netflix straight to Google Docs, analyzing every single sentence and adding all the vocab I didn't know to my flashcard deck. I extracted and trimmed the audio using Audacity, transferred the audio file to my phone, and repeatedly listened to it over and over and over (at least 20 times and counting).
+My listening practice started with [The Bite Size Japanese Podcast](https://open.spotify.com/show/58H68tM3uC2JNZI4hXvdeu) on the recommendation of my girlfriend. Her content is excellent for beginners; she speaks slowly, repeats words, and explores relatable, everyday topics. I spent weeks listening to her while walking and taking the train on my way home from work every day. Reira-san helped me dip my toes in the initial hurdles of listening comprehension.
 
-This was a game-changer for me. This specific method enhanced my listening comprehension x10. I love transcribing in general; it's the kind of labor I'm willing to grind hours and hours (whole weekends) on. Then I did the exact same thing for the 2nd Episode of Bunny Girl Senpai. My daily 2.5 hours of commute was primarily spent listening to these audio files. Before I sleep, I would also listen with my eyes closed until I finally feel sleepy.
+I was lucky that my favorite anime of all time, [Rascal Does Not Dream of Bunny Girl Senpai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai), is heavily dialogue-driven (the episodes consist of 95% conversations). To absorb each spoken line, I began manually transcribing the Japanese subtitles from Netflix straight to Google Docs, analyzing every single sentence and adding all the vocab I didn't know to my flashcard deck. I extracted and trimmed the audio using Audacity, transferred the audio file to my phone, and repeatedly listened to it over and over _and over_ (at least 20 times and counting).
 
-After doing this for two episodes, I was suddenly _quite_ comfortable with indulging in Japanese content (with Japanese subtitles) virtually everywhere else (anime, YouTube, etc.). Of course, I still didn't fully understand the content I was watching, but I had a rough idea of what was going on a lot of times. This is the first time I understood the sweet spot of immersing in i+1 content (comprehensible input). I devoured as many Japanese media as I could. Some of my favorites are: [あかね的日本語教室](https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw), [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally), and [Daily Japanese with Naoko](https://www.youtube.com/@DailyJapanese).
+This was a game-changer for me. This specific method enhanced my listening comprehension x10. I love transcribing in general; it's the kind of labor I'm willing to grind hours and hours (whole weekends) on. Then I did the exact same thing for the 2nd Episode. I used my daily 2.5-hour commute to listen to these audio files. Before I hit the sack, I would also listen with my eyes closed until I started to feel sleepy.
+
+After doing this for two episodes, I was suddenly _quite_ comfortable with indulging in Japanese content with Japanese subtitles virtually everywhere else (anime, YouTube, etc.). Of course, I still didn't fully understand the content I was watching, but I had a rough idea of what was going on. This is the first time I understood the sweet spot of immersing in i+1 content (comprehensible input). I devoured as many Japanese media as I could.
+
+Some of my favorite Japanese YouTube channels are: [あかね的日本語教室](https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw), [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally), and [Daily Japanese with Naoko](https://www.youtube.com/@DailyJapanese). As for anime, I am currently immersing on [Bartender: God of Glass](https://myanimelist.net/anime/53407/Bartender__Kami_no_Glass).
 
 > Side note: I was late to discover [Language Reactor](https://www.languagereactor.com/), a browser extension that gives you the power to export entire Japanese transcripts from Netflix and YouTube (including auto-generated subs). Also, it's a tool that allows you to check definitions of words on the subtitles as you watch Japanese shows. This tool has been invaluable to my learning.
 
-Moreover, reading the transcripts was made easy with the existence of pop-up web browser dictionaries like [Yomitan (PC)](https://github.com/themoeway/yomitan) and [10ten (iOS)](https://apps.apple.com/us/app/10ten-japanese-reader/id1573540634). Having the audio available for these transcripts facilitates reading comprehension. I also wrote Python scripts to automate raw transcript formatting (to my personal liking) and hosted an unindexed site using markdown to easily access my transcripts wherever I was with the pop-up dictionaries I was using.
+> Moreover, reading the transcripts was made easy with the existence of pop-up web browser dictionaries like [Yomitan (PC)](https://github.com/themoeway/yomitan) and [10ten (iOS)](https://apps.apple.com/us/app/10ten-japanese-reader/id1573540634). They allow you to instantly look up definitions of Japanese words as you read anything Japanese on the internet.
+
+Having the audio available for transcripts facilitates reading comprehension. I also wrote Python scripts to automate raw transcript formatting (to my personal liking) and hosted an unindexed site using markdown to easily access my transcripts wherever I was with any connected device.
 
 I combined Intensive, Free-Flow, and Passive Immersion methods into one. Here is my current process:
 
@@ -152,11 +167,11 @@ Stuff I no longer do:
 
 These are the things I would tell myself a year ago.
 
-・Language schools can give you a solid framework on how to start and continue with your studies, and a hundred hours of language school grants you a Student Visa eligibility (in my country at least), but its pedagogical efficacy differs from person to person. The possibility of losing motivation after attaining low scores in tests, vocab drills without sentence context, and the number of students in a class can all play as factors in diminishing their efficacy. However, they are a rich source of learning material and resources for your own studies. Ultimately, language schools are merely _supplemental_ to my main learning methods.
+・Language schools can give you a solid framework on how to start and continue with your studies, but its pedagogical efficacy differs from person to person. The N5 class was worth it, but you can stop from there and learn everything else on your own. You may lose a lot of motivation if you attain low scores in tests, and complex vocab drills without sentence context are not quite effective. However, they are a rich source of learning material and resources for your own studies. Ultimately, language schools are merely _supplemental_ to my main learning methods.
 
 ・Learn Japanese the Japanese way and don't translate everything you read to English in your head. Translation drills can lead to unnatural sentence structures. Also, there is such a thing as over-reliance on Google Translate. I highly recommend trying to analyze more complex sentences on your own first, with Google Translate only serving as a last resort.
 
-・Aside from obvious nouns like "dog" and "vending machine", Japanese words have a life of their own and cannot be completely defined by their closest English translation. The word 面白い (omoshiroi) means "funny", but it also means "interesting". Some words don't even have direct translations; they can only be grasped by the context in which they are used.
+・Aside from nouns like 犬 (dog), パソコン (laptop), or 自動販売機 (vending machine), Japanese words have a life of their own and cannot be completely defined by their closest English translation. The word 面白い (omoshiroi) means "funny", but it also means "interesting". Some words don't even have direct translations; they can only be grasped by the context in which they are used.
 
 ・You don't always have to immerse in material with comprehensible input (i+1). Sometimes, you can listen to something way more challenging than your current level. The important thing is you are _thoroughly enjoying the material_ enough for you to listen to it over and over and over.
 
@@ -167,6 +182,10 @@ These are the things I would tell myself a year ago.
 ・I initially thought I would never attain my current level of fluency in English. I thought of myself as an eloquent writer during my formative years, but my pieces were quite unnatural (since I hardly spoke the language). I learned how to write much more organically by speaking a lot more - it's true when they say that anybody who could talk could also write.
 
 ・Technology has immensely facilitated the study of languages, and we are very fortunate to be living in modern times. Take the time to learn how to use them as early as possible. 
+
+### Random Insights
+
+・The phonetics of Japanese and Tagalog are very similar since they are both _syllable-timed_ languages, whereas English is a _stress-timed_ language, so its pronunciation was much easier to digest for me.
 
 ---
 
