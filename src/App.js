@@ -1,6 +1,10 @@
 import React, { useEffect } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import ReactGA from "react-ga";
+import {
+	BrowserRouter as Router,
+	Routes,
+	Route,
+	useLocation,
+} from "react-router-dom";
 
 // Components
 import MainLayout from "./components/MainLayout";
@@ -10,18 +14,21 @@ import Post from "./components/Post";
 // Pages
 import HomePage from "./routes/HomePage";
 
-// Tracking ID
-const TRACKING_ID = "G-BTHZPV49BG";
+function usePageViews() {
+	const location = useLocation();
 
-function usePageTracking() {
 	useEffect(() => {
-		ReactGA.initialize(TRACKING_ID);
-		ReactGA.pageview(window.location.pathname + window.location.search);
-	}, []);
+		// Assuming window.goatcounter is defined by the script you included in index.html
+		if (window.goatcounter) {
+			window.goatcounter.count({
+				path: location.pathname + location.search,
+			});
+		}
+	}, [location]);
 }
 
 function App() {
-	usePageTracking();
+	usePageViews();
 
 	return (
 		<Router basename={process.env.PUBLIC_URL}>
