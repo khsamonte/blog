@@ -177,7 +177,7 @@ Having poured a lot of my time into the language in the past year, I still consi
 
 ---
 
-## Future Plans
+## 2nd Year Plans
 
 ・**Start reading novels.** As someone who reads English content voraciously and heavily prefers ebooks over audiobooks, reading Japanese content presently bores me. I am not as enthusiastic when it comes to reading materials as I am when listening to audio material while reading the transcript/subtitles, but I cannot deny the effectiveness and importance of reading. For my second year, I plan to indulge in light novels from start to finish and then listen to their respective audiobooks repeatedly.
 
@@ -187,7 +187,9 @@ Having poured a lot of my time into the language in the past year, I still consi
 
 ・**Study Kansai dialect.** My girlfriend currently lives in the Kansai Region, so the specific domain of Kansai dialect is one of our top choices among other language specializations. Moreover, I think only a small minority of Japanese learners pay attention to the Kansai dialect.
 
-・**My ultimate goal is C1 level: conversational fluency and university-level literacy.** I have no delusions that it will take me a very long time to attain this - five years or more, at the very least. It may even take me an entire lifetime. Language learning is very tough, but I am pleased with my current progress.
+・**My ultimate goal is C1 level: conversational fluency and university-level literacy.** I have no delusions that it will take me a long time to attain this - five years or more, at the very least. It may even take me an entire lifetime. Language learning is very tough, but I am pleased with my current progress.
+
+・**Live in Japan and talk to the natives.** Of course, this is the be-all and end-all goal of language learning - to assimilate yourself to the natives and learn everything about their culture and life.
 
 ---
 
@@ -208,6 +210,8 @@ These are the things I would tell myself a year ago.
 ・**Some people will be much better at output at a much earlier stage**, but I like to think they're exceptionally talented. This point will be fringe and inarticulate, so take it with a grain of salt. My patterns of output are much more "emulative" than they are "creative" in that, my speaking feels way more natural when I "imitiate" other people's speaking rather than creating sentences in my own mind before saying them. I feel the exact same way with English, which is why my speaking output came much later than my writing output.
 
 ### Random Musings
+
+・**Japanese is a beautiful language and a lot of Japanese media is lost in translation**. You can criticize Haruki Murakami's writing all you want, but you'll understand the beauty of his prose once you learn the language he writes with. To capture that beauty with translation is purely impossible.
 
 ・**Technology has immensely facilitated the study of languages**, and we are very fortunate to be living in modern times. Take the time to learn how to use them as early as possible. And with the dawn of AI, there has never been a better time to learn a new language.
 
