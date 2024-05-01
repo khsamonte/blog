@@ -122,7 +122,9 @@ If you're after simple vocabulary, I would argue that alternatives more befittin
 
 ### Anki
 
-I just use a single deck that has all the Japanese words, phrases, and grammar patterns I want to learn. I have two types of cards:
+I just use a single deck that has all the Japanese words, phrases, and grammar patterns I want to learn. All of the cards in my deck came from my own immersion. As of posting, I have 1,001 cards in my deck, and my goal by next year is to reach 10,000 cards.
+
+I have two types of cards:
 
 + １）Vocab cards: The Kanji of the word in front. This comprises ~90% of my cards.
 + ２）Sentence cards with the highlighted word: For words with multiple definitions, I use sentences with the target word highlighted in front. This comprises ~10% of my cards.
