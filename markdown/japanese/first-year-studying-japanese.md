@@ -177,7 +177,7 @@ Having poured a lot of my time into the language in the past year, I still consi
 
 ---
 
-## 2nd Year Plans
+## 2nd Year and Long-Term Future Plans
 
 ・**Start reading novels.** As someone who reads English content voraciously and heavily prefers ebooks over audiobooks, reading Japanese content presently bores me. I am not as enthusiastic when it comes to reading materials as I am when listening to audio material while reading the transcript/subtitles, but I cannot deny the effectiveness and importance of reading. For my second year, I plan to indulge in light novels from start to finish and then listen to their respective audiobooks repeatedly.
 
