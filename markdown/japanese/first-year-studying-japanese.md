@@ -1,4 +1,4 @@
-##### Ken Samonte | April 30, 2024 (Tuesday)
+##### Ken Samonte | May 1, 2024 (Wednesday)
 
 Hi. This post is about my first year of studying Japanese and everything I learned along the way. I wrote this to track my language progress.
 
@@ -59,15 +59,15 @@ As you can see in the results, listening is my weakness. The questions were only
 
 ## Immersion
 
-At the start of 2024, I started hearing about [immersion](https://refold.la/simplified/stage-0/a/what-is-immersion) and [comprehensible input](https://www.sk.com.br/sk-krash-english.html) ([i+1](https://www.sk.com.br/sk-krash-english.html)). I became aware of [AJATT (All Japanese All The Time)](https://tatsumoto-ren.github.io/blog/whats-ajatt.html) methods, which discarded traditional textbook learning and endorsed single-handedly relying on intensive [immersion](https://refold.la/simplified/stage-0/a/what-is-immersion) through input to learn a language, paired with building your own flashcard deck on [Anki](https://apps.ankiweb.net/) which utilizes [spaced repetition](https://www.kpu.ca/sites/default/files/Learning%20Centres/Think_SpacedRepetition_LA.pdf).
+At the start of 2024, I started hearing about [immersion](https://refold.la/simplified/stage-0/a/what-is-immersion) and [comprehensible input](https://www.sk.com.br/sk-krash-english.html) ([i+1](https://www.sk.com.br/sk-krash-english.html)). I became aware of [AJATT (All Japanese All The Time)](https://tatsumoto-ren.github.io/blog/whats-ajatt.html) methods, which discarded traditional textbook learning and endorsed single-handedly relying on intensive immersion through input to learn a language, paired with building your own flashcard deck on [Anki](https://apps.ankiweb.net/) which utilizes [spaced repetition](https://www.kpu.ca/sites/default/files/Learning%20Centres/Think_SpacedRepetition_LA.pdf).
 
-However, I don't subscribe to AJATT's extreme methods because they require a good amount of linguistic intuition, which I don't have, and I am fully aware that the level of intensity they demand will burn me out. I also believe that textbooks are helpful to an extent.
+However, I don't subscribe to some of AJATT's methods because they require a good amount of linguistic intuition, which I don't have, and I am fully aware that the level of intensity they demand will burn me out. I also believe that textbooks are helpful to an extent.
 
 My listening practice started with [The Bite Size Japanese Podcast](https://open.spotify.com/show/58H68tM3uC2JNZI4hXvdeu) on the recommendation of my girlfriend. Her content is excellent for beginners; she speaks slowly, repeats words, and explores relatable, everyday topics. I spent weeks listening to her during my commutes. Reira-san helped me dip my toes into the initial hurdles of listening comprehension.
 
 I was lucky that my favorite anime of all time, [Rascal Does Not Dream of Bunny Girl Senpai](https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai), is heavily dialogue-driven (the episodes consist of 95% conversations). To absorb each spoken line, I began manually transcribing the Japanese subtitles from Netflix straight to Google Docs, analyzing every single sentence and adding all the vocab I didn't know to my flashcard deck. I extracted and trimmed the audio using [audio software](https://www.audacityteam.org/), transferred the audio file to my phone, and repeatedly listened to it over and over _and over_ (at least 30 times).
 
-> Side note: I was late to discover the existence of pop-up web browser dictionaries like [Yomitan (PC)](https://github.com/themoeway/yomitan) and [10ten (iOS)](https://apps.apple.com/us/app/10ten-japanese-reader/id1573540634), and language toolboxes like [Language Reactor](https://www.languagereactor.com/). Check the Resources section below to know more. These tools have been invaluable to my learning.
+> Side note: I was late to discover [Language Reactor](https://www.languagereactor.com/), a browser extension that allows you to export entire transcripts from Netflix and YouTube (including auto-generated subs). For my transcripts, I use this alongside pop-up web browser dictionaries like [Yomitan (PC)](https://github.com/themoeway/yomitan) and [10ten (iOS)](https://apps.apple.com/us/app/10ten-japanese-reader/id1573540634). These tools have been invaluable to my learning.
  
 This was a game-changer for me. This specific method enhanced my listening comprehension x10. I love transcribing in general; it's the kind of labor I'm willing to grind whole weekends on. It was the riveting exchanges in this soothing slice of life that glued my attention to each spoken line, each amusing quip, each emotionally charged confession.
 
@@ -102,7 +102,7 @@ This method is certainly not going to be effective for everyone in the same way 
 
 I cannot emphasize this enough: my methods are very personal to me, and this is what I find highly effective to do continuously and consistently. If you have a rough idea of how you would like to proceed with your study methods, whether they be Duolingo, language school, AJATT, Kanji writing, etc., I highly encourage you to do that and follow your heart.
 
-My point is - my immersion methods bring me a tremendous amount of joy, and I strongly believe that the best way to learn a language is to have fun with how you learn, no matter how personalized your methods are. It's okay if you don't know yet which works for you - it took me a whole year to figure this out after soaking up countless articles on the internet. 
+My point is - my immersion methods bring me a tremendous amount of joy, and I strongly believe that the best way to learn a language is to have fun with how you learn, no matter how personalized your methods are. It's okay if you don't know yet which works for you - it took me a whole year to figure this out. 
 
 ---
 
@@ -135,9 +135,9 @@ This is the back template of my card:
 
 I treat Anki as nothing but vocab drills. With the Kanji in front, I try to guess the meaning and the reading of the word. For example:
 
-+ Word: 飛行機
-+ Reading: ひこうき (hikōki)
-+ Meaning: airport
++ Word: 魅力的
++ Reading: みりょくてき (miryokuteki)
++ Meaning: charming; fascinating; attractive
 
 I prefer learning the Kanji of new words straight away because knowing only the meaning and the Kana of a word feels like a sluggish way to learn new vocab to me. And since single Kanji characters can have the same readings, as your vocabulary grows, it will be easier to remember other words and their readings because some of the Kanji will already be familiar.
 
@@ -153,7 +153,7 @@ I use the [FSRS algorithm](https://github.com/open-spaced-repetition/fsrs4anki) 
 
 ### Current routine
 
-+ ・Waking up at 7:00 AM to complete my daily Anki flashcards (30 to 45 minutes) before getting up.
++ ・Waking up at 7:00 AM to complete my daily Anki flashcard drills (30 to 45 minutes) before getting up.
 + ・Dedicating most of my free time to consuming Japanese content with the active immersion method I mentioned in a few paragraphs above.
 + ・Free-flow listening immersion during 2-2.5 hours of commute and passive listening at work (during menial tasks only).
 + ・Chatting and talking in Japanese to my girlfriend (she is N2-level). お互いから学んでいます。
@@ -166,7 +166,7 @@ Stuff I no longer do:
 
 ### An honest rating of my present skills
 
-+ １）Reading: **A2**. I can't read light novels smoothly yet, but I am comfortable with reading extensive passages in N4-level reading comprehension tests.
++ １）Reading: **A2**. I can't read light novels continuously yet, but I am comfortable with reading extensive passages in N4-level reading comprehension tests.
 + ２）Listening: **A2**. I can understand what's going on most of the time in simple conversations and monologues, but I might miss some of the vocab occasionally.
 + ３）Writing (typing): **A2**. I can hold a conversation with my girlfriend with a bit of mental effort. I may be able to write a letter.
 + ４）Speaking: **A1**. It takes me a long while to form simple, descriptive sentences.
@@ -177,7 +177,7 @@ Having poured a lot of my time into the language in the past year, I still consi
 
 ## Future Plans
 
-・**Start reading novels.** As someone who voraciously reads English content and heavily prefers ebooks over audiobooks, reading Japanese content presently bores me. I am not as enthusiastic when it comes to reading materials as I am when listening to audio material while reading the transcript/subtitles, but I cannot deny the effectiveness and importance of reading. For my second year, I plan to indulge in light novels from start to finish and then listen to their respective audiobooks repeatedly.
+・**Start reading novels.** As someone who reads English content voraciously and heavily prefers ebooks over audiobooks, reading Japanese content presently bores me. I am not as enthusiastic when it comes to reading materials as I am when listening to audio material while reading the transcript/subtitles, but I cannot deny the effectiveness and importance of reading. For my second year, I plan to indulge in light novels from start to finish and then listen to their respective audiobooks repeatedly.
 
 ・**Watch native-level Japanese content without Japanese subtitles.** Native-level Japanese dialogue without the aid of Japanese subtitles is a different behemoth in itself. As someone who's dependent on English subtitles when watching English media, this will probably be the most difficult aspect of input.
 
@@ -185,7 +185,7 @@ Having poured a lot of my time into the language in the past year, I still consi
 
 ・**Study Kansai dialect.** My girlfriend currently lives in the Kansai Region, so the specific domain of Kansai dialect is one of our top choices among other language specializations. Moreover, I think only a small minority of Japanese learners pay attention to the Kansai dialect.
 
-・**My ultimate goal is C1 level: conversational fluency and university-level literacy.** I have no delusions that it will take me a very long time to attain this - five years or more, at the very least. It may even take me an entire lifetime. Language learning is tough, but I am pleased with my current progress.
+・**My ultimate goal is C1 level: conversational fluency and university-level literacy.** I have no delusions that it will take me a very long time to attain this - five years or more, at the very least. It may even take me an entire lifetime. Language learning is very tough, but I am pleased with my current progress.
 
 ---
 
@@ -209,7 +209,7 @@ These are the things I would tell myself a year ago.
 
 ・**Technology has immensely facilitated the study of languages**, and we are very fortunate to be living in modern times. Take the time to learn how to use them as early as possible. And with the dawn of AI, there has never been a better time to learn a new language.
 
-・**I initially thought I would never attain my current level of fluency in English.** I thought of myself as an eloquent writer during my formative years, but my pieces were quite unnatural since I hardly spoke the language. I learned how to write much more organically by speaking a lot more - it's true when they say that anybody who can talk can also write.
+・**I initially thought I would never attain my current level of fluency in English.** This keeps me optimistic that I will eventually acquire Japanese. While yes, I thought of myself as an eloquent writer during my formative years, my writing pieces during that time were quite unnatural since I hardly spoke the language. I learned how to write much more organically by speaking a lot more - it's true when they say that anybody who can talk can also write.
 
 ・**The phonetics of Japanese and Tagalog are very similar** since they are both _syllable-timed_ languages, whereas English is a _stress-timed_ language, so its pronunciation was much easier to digest for me.
 
