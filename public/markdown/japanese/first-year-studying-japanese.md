@@ -189,8 +189,6 @@ Having poured a lot of my time into the language in the past year, I still consi
 
 ・**My ultimate goal is C1 level: conversational fluency and university-level literacy.** I have no delusions that it will take me a long time to attain this - five years or more, at the very least. It may even take me an entire lifetime. Language learning is very tough, but I am pleased with my current progress.
 
-・**Live in Japan and talk to the natives.** Of course, this is the be-all and end-all goal of language learning - to assimilate yourself to the natives and learn everything about their culture and life.
-
 ---
 
 ## Takeaways
